@@ -1,2 +1,2 @@
 # simple-gulp-sass
-Simple Gulp and SASS setup with Browser Sync
+### Simple [Gulp](https://gulpjs.com/) and [SASS](http://sass-lang.com/) setup with [Browser Sync](https://browsersync.io/)
