@@ -1,0 +1,1 @@
+{"version":3,"file":"../main.css","sources":["main.scss","test.scss"],"sourcesContent":["@import './test.scss';\r\n","body {\r\n  font-family: verdana, sans-serif;\r\n  font-size: 16px;\r\n  color: blue;\r\n}\r\n"],"names":[],"mappings":"ACAA,AAAA,IAAI,CAAC;EACH,WAAW,EAAE,mBAAmB;EAChC,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,IAAI,GACZ"}
